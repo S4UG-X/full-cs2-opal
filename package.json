@@ -1,0 +1,35 @@
+{
+  "keyword": "Counter-Strike 2",
+  "slug": "full-cs2-opal",
+  "game": "counter-strike-2",
+  "lang": "en",
+  "variant": "spoofer",
+  "variant_title": "HWID Spoofer Pack",
+  "rep": 3,
+  "short_link": "https://share.google/Wwwak4rsuJiPSW6kH",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 8,
+  "anticheat": "VAC",
+  "modules": [
+    "spoofer",
+    "aimbot",
+    "skins"
+  ],
+  "has_skins": true,
+  "cheat_vol": 880,
+  "keepalive": {
+    "file": ".github/workflows/daily-update.yml",
+    "name": "Auto update",
+    "crons": [
+      "0 11 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s3",
+    "label": "Full instructions Full",
+    "icon": "download"
+  },
+  "files": 27,
+  "bytes": 2955659
+}
